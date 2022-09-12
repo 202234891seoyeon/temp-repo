@@ -1,6 +1,6 @@
 # temp-repo
 
-HI~!
-202234891 박서연
-"github" is too hard.
+HI~!</br>
+202234891 박서연</br></br>
+"github" is too hard.</br>
 I have to study hard.
